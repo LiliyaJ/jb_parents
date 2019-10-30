@@ -1,0 +1,322 @@
+@media only screen and (min-width: 0px) and (max-width: 480px){
+    html,
+    body{
+       
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 1.2em;
+        text-rendering: optimizeLegibility;
+    }
+    h2,
+    h5{
+        font-size: 160%;
+    }
+
+    h1{
+        font-size: 130%;
+    }
+
+    h3{
+        font-size: 200%;
+    }
+
+    h4{
+        text-align: left;
+    }
+
+    a{
+        font-size: 12px;
+    }
+
+    .headers{
+        width: 90%;
+        margin: 6% 0;
+    }
+
+    .btn,
+    .btn:visited,
+    .btn:hover,
+    .btn:active{
+        padding: 2% 3%;
+        margin-left: 13%;
+    }
+
+    .top,
+    .top:active,
+    .top:hover,
+    .top:visited{
+        margin: 6% 2%;
+        padding: 3%;
+    }
+
+    .hero{
+        display: block;
+        width: 93%;
+        background-size: 100% auto;
+        background-image: url(img/Brochure-Design_sm.jpg);
+    }
+
+    .col-two{
+        display: block;
+        width: 100%;
+        padding-top: 70%;
+    }
+
+    .benefits li{
+        margin-bottom: 4%;
+    }
+
+    .stars{
+        width: 20%;
+    }
+
+    .feedback-txt{
+        font-size: 100%;
+    }
+
+    .feedback-photo p{
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 110%;
+        font-weight: 500;
+        margin-bottom: 3%;
+    }
+    
+
+    .feedback div,
+    .doctors div,
+    .photo-grid div{
+        width: 100%;
+    }
+
+    .doctors{
+        display: block;
+    }
+
+    .doc-photo img{
+        width: 100%;
+    }
+
+    .doc-txt{
+        margin: 0;
+        padding: 6% 7%;
+        text-align: justify;
+    }
+
+    .doc-txt p,
+    .doc-txt q{
+        font-size: 100%;
+        line-height: 1.4em;
+    }
+
+    .doc-txt p{
+        text-align: left;
+    }
+    
+    .doc-photo{
+        margin: 3% 0;
+    }
+
+    .photos-block{
+        background: linear-gradient(0deg,  rgb(235, 235, 235) 47%, #dd3813 47%);
+    }
+
+    .photo-grid{
+        width: 90%;
+    }
+
+    .footer{
+        display: block;
+        padding: 10%;
+        text-align: center;
+    }
+    
+    .footer div{
+        display: block;
+        margin-bottom: 6%;
+    }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 767px){
+    h2,
+    h5{
+        font-size: 260%;
+    }
+
+    h3{
+        font-size: 280%;
+    }
+
+    h4{
+        text-align: left;
+    }
+
+    .headers{
+        width: 90%;
+        margin: 6% 0;
+    }
+
+    .btn,
+    .btn:visited,
+    .btn:hover,
+    .btn:active{
+        padding: 2% 3%;
+        margin-left: 13%;
+    }
+
+    .hero{
+        display: block;
+        width: 93%;
+        background-size: 100% auto;
+        background-image: url(img/Brochure-Design_sm.jpg);
+    }
+
+    .col-two{
+        display: block;
+        width: 100%;
+        padding-top: 70%;
+    }
+
+    .benefits li{
+        margin-bottom: 4%;
+    }
+
+    .stars{
+        width: 20%;
+    }
+
+    .feedback-txt{
+        font-size: 100%;
+    }
+
+    .feedback div,
+    .doctors div,
+    .photo-grid div{
+        width: 100%;
+    }
+
+    .doctors{
+        display: block;
+    }
+
+    .doc-photo img{
+        width: 100%;
+    }
+
+    .doc-txt{
+        margin: 0;
+        padding: 6% 7%;
+        text-align: justify;
+    }
+
+    .doc-txt p{
+        text-align: left;
+    }
+    
+    .doc-photo{
+        margin: 3% 0;
+    }
+
+    .photos-block{
+        background: linear-gradient(0deg,  rgb(235, 235, 235) 47%, #dd3813 47%);
+    }
+
+    .photo-grid{
+        width: 90%;
+    }
+
+    .footer{
+        display: block;
+        padding: 10%;
+        text-align: center;
+    }
+    
+    .footer div{
+        display: block;
+        margin-bottom: 6%;
+    }
+   
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px){
+
+    h2,
+    h5{
+        font-size: 260%;
+    }
+
+    h3{
+        font-size: 280%;
+    }
+
+    .headers{
+        width: 90%;
+        margin: 6% 0;
+    }
+
+    .btn,
+    .btn:visited,
+    .btn:hover,
+    .btn:active{
+        padding: 2% 3%;
+    }
+
+    .hero{
+        display: block;
+        width: 93%;
+        background-size: 100% auto;
+        background-image: url(img/Brochure-Design_sm.jpg);
+    }
+
+    .col-two{
+        display: block;
+        width: 100%;
+        padding-top: 70%;
+    }
+
+    .benefits li{
+        margin-bottom: 4%;
+    }
+
+    .feedback div,
+    .doctors div,
+    .photo-grid div{
+        width: 100%;
+    }
+
+    .doctors{
+        display: block;
+    }
+
+    .doc-photo img{
+        width: 100%;
+    }
+
+    .doc-txt{
+        margin: 0;
+        text-align: justify;
+        padding: 6% 7%;
+    }
+
+    .doc-photo{
+        margin: 3% 0;
+    }
+
+    .photo-grid{
+        width: 90%;
+    }
+  
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1299px){
+   
+    .headers{
+        width: 90%;
+        margin: 6% 0;
+    }
+
+    .feedback div,
+    .doctors div,
+    .photo-grid div{
+        width: 93%;
+    }
+}
